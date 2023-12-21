@@ -1,0 +1,50 @@
+﻿<Page x:Class="DodoPizza.Pages.WhoCashier"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:DodoPizza.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="WhoCashier">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center"
+            VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" 
+                HorizontalAlignment="Center" 
+                Width="458" Height="49">
+                <TextBlock Text="КАССИР:"
+                    Width="159" FontSize="30" 
+                    FontWeight="Bold" 
+                    Height="169"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" 
+                HorizontalAlignment="Center">
+                <Button
+                    Style="{StaticResource 
+                    CircBut}" Width="154" 
+                    Height="48"
+                    Name="Cashier1"
+                    Content="Яна Морозова" 
+                    Click="Cashier1_Click"/>
+                <Button
+                    Style="{StaticResource 
+                    CircBut}" Width="154" 
+                    Height="48"
+                    Name="Cashier2"
+                    Content="Жасмин Рузанова" 
+                    Click="Cashier2_Click"/>
+                <Button
+                    Style="{StaticResource 
+                    CircBut}" Width="154" 
+                    Height="48"
+                    Name="Cashier3"
+                    Content="Мари Каурова" 
+                    Click="Cashier3_Click"/>
+            </StackPanel>
+        </StackPanel>
+        
+    </Grid>
+</Page>

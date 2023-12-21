@@ -1,0 +1,79 @@
+D:\ПП 06\DodoPizza\DodoPizza\bin\Debug\DodoPizza.exe.config
+D:\ПП 06\DodoPizza\DodoPizza\bin\Debug\DodoPizza.exe
+D:\ПП 06\DodoPizza\DodoPizza\bin\Debug\DodoPizza.pdb
+D:\ПП 06\DodoPizza\DodoPizza\bin\Debug\EntityFramework.dll
+D:\ПП 06\DodoPizza\DodoPizza\bin\Debug\EntityFramework.SqlServer.dll
+D:\ПП 06\DodoPizza\DodoPizza\bin\Debug\EntityFramework.xml
+D:\ПП 06\DodoPizza\DodoPizza\bin\Debug\EntityFramework.SqlServer.xml
+D:\ПП 06\DodoPizza\DodoPizza\bin\Debug\ru\EntityFramework.resources.dll
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\DodoPizza.csproj.AssemblyReference.cache
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\MainWindow.g.cs
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\Order.g.cs
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\App.g.cs
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\DodoPizza_Content.g.cs
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\DodoPizza_MarkupCompile.cache
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\DodoPizza_MarkupCompile.lref
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\MainWindow.baml
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\Order.baml
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\DodoPizza.g.resources
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\DodoPizza.Properties.Resources.resources
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\DodoPizza.csproj.GenerateResource.cache
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\DodoPizza.csproj.CoreCompileInputs.cache
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\DodoPizza.csproj.CopyComplete
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\DodoPizza.exe
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\DodoPizza.pdb
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\App.baml
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\Menu.g.cs
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\WhoCashier.g.cs
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\Menu.baml
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\WhoCashier.baml
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\Pizza.g.cs
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\Pizza.baml
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\Snacks.g.cs
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\Snacks.baml
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\AddProduct.g.cs
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\Beverages.g.cs
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\Dessert.g.cs
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\AddProduct.baml
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\Beverages.baml
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\Dessert.baml
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\Search.g.cs
+D:\ПП 06\DodoPizza\DodoPizza\obj\Debug\Pages\Search.baml
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\bin\Debug\DodoPizza.exe.config
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\bin\Debug\DodoPizza.exe
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\bin\Debug\DodoPizza.pdb
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\bin\Debug\EntityFramework.dll
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\bin\Debug\EntityFramework.xml
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\bin\Debug\ru\EntityFramework.resources.dll
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\MainWindow.g.cs
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\Pages\Menu.g.cs
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\Pages\Order.g.cs
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\Pages\WhoCashier.g.cs
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\App.g.cs
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\DodoPizza_Content.g.cs
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\DodoPizza_MarkupCompile.cache
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\DodoPizza_MarkupCompile.lref
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\App.baml
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\MainWindow.baml
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\Pages\Menu.baml
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\Pages\Order.baml
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\Pages\WhoCashier.baml
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\DodoPizza.g.resources
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\DodoPizza.Properties.Resources.resources
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\DodoPizza.csproj.GenerateResource.cache
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\DodoPizza.csproj.CoreCompileInputs.cache
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\DodoPizza.csproj.CopyComplete
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\DodoPizza.exe
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\DodoPizza.pdb
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\MenuPages\PizzaPage.g.cs
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\MenuPages\PizzaPage.baml
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\MenuPages\AddProductPage.g.cs
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\MenuPages\BeveragesPage.g.cs
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\MenuPages\DessertPage.g.cs
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\MenuPages\SnackPage.g.cs
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\MenuPages\AddProductPage.baml
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\MenuPages\BeveragesPage.baml
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\MenuPages\DessertPage.baml
+D:\Учебаааа\Mashk\DodoPizza\DodoPizza\DodoPizza\obj\Debug\MenuPages\SnackPage.baml

@@ -1,0 +1,63 @@
+﻿<Page x:Class="DodoPizza.Pages.Order"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:DodoPizza.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="700"
+      Title="Order">
+
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="ЗАКАЗ НОМЕР:"
+                FontSize="22" 
+                FontWeight="Bold" 
+                Height="36" Width="168"/>
+        </StackPanel>
+
+        <Grid Margin="45,138,371,55" 
+              Background="WhiteSmoke">
+            <TextBox Margin="178,136,28,74"
+                Height="30"/>
+            <TextBlock Text="СУММА ЗАКАЗА:"
+                FontSize="20" 
+                FontWeight="Bold" 
+                Height="36" 
+                Margin="10,0,206,221"/>
+            <Button
+                Style="{StaticResource 
+                CircBut}"
+                Height="48"
+                Name="Cashier1"
+                Content="БЕЗНАЛИЧНЫМИ" 
+                Margin="0,36,230,173" 
+                Click="Cashier1_Click"/>
+            <TextBlock Text="НАЛИЧНЫМИ:"
+                FontSize="20" 
+                Height="36" 
+                Margin="10,110,206,111"/>
+            <TextBlock Text="Сумма у клиента:"
+                FontSize="20" 
+                Height="36" 
+                Margin="10,146,206,75"/>
+            <TextBlock Text="Сдача:"
+                FontSize="20" 
+                Height="36" 
+                Margin="10,188,206,33"/>
+            <TextBlock Margin="83,188,0,33"></TextBlock>
+            <Button VerticalAlignment="Bottom"
+                Style="{StaticResource 
+                CircBut}"
+                Height="48"
+                Content="РОВНО" 
+                Margin="10,249,220,0"
+                Click="Button_Click"/>
+        </Grid>
+        <Button VerticalAlignment="Bottom"
+                HorizontalAlignment="Right"
+                Style="{StaticResource CircButMenu}"
+                Height="48"
+                Content="УДАЛИТЬ ЗАКАЗ" Width="134"/>
+    </Grid>
+</Page>
